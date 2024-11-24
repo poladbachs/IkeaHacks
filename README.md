@@ -1,0 +1,2 @@
+# IkeaHacks
+Information Retrieval Project
